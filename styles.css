@@ -16,6 +16,7 @@ html {
 .quoteSection {
   display: inline-block;
   border: 2px solid #ffffff;
+  width: 50%;
   color: #0B4861;
   padding: 2% 1% 2% 1%;
   margin: 0 auto 0.7% auto; 
